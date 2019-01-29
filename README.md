@@ -1,2 +1,2 @@
 # TempControlPublic
-Shasta Dam Operations Optimization 
+Shasta Dam Temperature Management Optimization Model 
